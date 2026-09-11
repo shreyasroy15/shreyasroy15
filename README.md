@@ -1,209 +1,228 @@
 <div align="center">
 
-👋 Hi, I'm Shreyas Roy
+# 👋 Hi, I'm Shreyas Roy
 
-💻 Full-Stack Developer · Software Engineer · C#/.NET · Flutter
+### 💻 Full-Stack Developer | Software Engineer | C#/.NET | Flutter
 
-Building scalable software, modern applications, APIs, and practical digital products.
+Building modern software, scalable applications, APIs, and
+user-focused digital products.
 
 <p>
   <a href="https://github.com/shreyasroy15">
-    <img src="https://img.shields.io/badge/GitHub-shreyasroy15-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/shreyasroy15?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/shreyasroy15">
+    <img src="https://komarev.com/ghpvc/?username=shreyasroy15&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
   </a>
 </p>
 
 </div>
 
-🧑‍💻 About Me
+---
 
-I'm a Full-Stack Developer and Software Engineer focused on building reliable, maintainable, and user-focused software.
+## 🧑‍💻 About Me
 
-⚙️ C# / .NET — application development, APIs, OOP and architecture
+I'm a **Full-Stack Developer and Software Engineer** interested in
+building reliable, scalable, and user-friendly software.
 
-📱 Flutter / Dart — cross-platform application development
+- 💻 Focused on **C# / .NET development**
+- 📱 Building applications with **Flutter**
+- 🌐 Developing **REST APIs and full-stack applications**
+- 🗄️ Working with **SQL and databases**
+- 🧠 Applying **OOP, SOLID principles and design patterns**
+- 🧪 Interested in **testing, debugging and clean code**
+- 🚀 Exploring **AI-powered applications and startup ideas**
+- 🐧 Comfortable working with **Linux and developer tooling**
 
-🌐 Full-Stack Development — frontend, backend and REST APIs
+---
 
-🗄️ Databases — SQL and application data design
+## 🛠️ Tech Stack
 
-🧠 Engineering — SOLID principles, design patterns and clean code
+### 💻 Languages
 
-🧪 Quality — testing, debugging and maintainability
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dart,python,java,cpp,js,ts,html,css,sql" />
+</p>
 
-🤖 Exploring — AI-powered applications and developer tooling
+### ⚙️ Backend & Frameworks
 
-🐧 Environment — Linux, Git and modern development workflows
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,express,nodejs,django" />
+</p>
 
-📊 GitHub Analytics
+### 📱 Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,angular" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,aws,figma,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/shreyasroy15">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyasroy15&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="Shreyas Roy GitHub statistics">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shreyasroy15&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/shreyasroy15">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasroy15&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Shreyas Roy most used languages">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasroy15&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </a>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.demolab.com?user=shreyasroy15&hide_border=true&theme=transparent" alt="Shreyas Roy contribution streak">
-
-</div>
-
-📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasroy15&hide_border=true&area=true&custom_title=Shreyas%20Roy%20-%20Contribution%20Activity" alt="Shreyas Roy contribution activity graph">
+<a href="https://github.com/shreyasroy15">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasroy15&theme=tokyo-night&hide_border=true&area=true"
+alt="Shreyas Roy GitHub Activity Graph"
+/>
+
+</a>
 
 </div>
 
-🧰 Tech Stack
+---
 
-💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dart,python,js,ts,html,css" alt="Programming languages">
-</p>
-
-⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,express" alt="Backend and framework technologies">
-</p>
-
-🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database technologies">
-</p>
-
-🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Development tools and platforms">
-</p>
-
-Engineering focus: OOP · SOLID · Design Patterns · Clean Code · REST APIs · Database Design · Unit Testing · Debugging · Git/GitHub
-
-🚀 Featured Projects
+## 🔥 Contribution Streak
 
 <div align="center">
 
-Project
+<a href="https://github.com/shreyasroy15">
 
-Focus
+<img
+src="https://streak-stats.demolab.com?user=shreyasroy15&theme=tokyonight&hide_border=true"
+alt="Shreyas Roy GitHub Streak"
+/>
 
-Repository
-
-🎯 ContractMonitor
-
-Software / API engineering
-
-View →
-
-🌐 SocialSphere
-
-Full-stack web development
-
-View →
-
-🏫 College-Complain-Box
-
-Web application
-
-View →
-
-💼 shreysroy-portfolio
-
-Developer portfolio
-
-View →
-
-🤖 Agentic_AI_Shreyas
-
-AI / Python
-
-View →
-
-🏙️ UrbanNest
-
-Web application
-
-View →
+</a>
 
 </div>
 
-🧠 Software Engineering
+---
 
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/shreyasroy15">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=shreyasroy15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"
+/>
+
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎡 Lucky Spinner
+
+A modern rewards platform featuring:
+
+- 🎯 Spin & Win
+- 💰 Points Wallet
+- 💳 Payout System
+- 🎁 Referral Rewards
+- 👤 User Profile
+- 📱 Responsive UI
+
+**Focus:** Full-Stack / Flutter / Web
+
+</td>
+
+<td width="50%">
+
+### 💻 ShreyasWeb
+
+Software engineering project focused on:
+
+- C# / .NET
+- Object-Oriented Programming
+- APIs
+- Software architecture
+- Testing
+- Clean and maintainable code
+
+**Focus:** C# / .NET
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI App Generator
+
+An AI-focused application concept for generating
+custom applications from user requirements.
+
+**Focus:** AI / Flutter / Full-Stack
+
+</td>
+
+<td width="50%">
+
+### 🌐 Developer Portfolio
+
+Personal portfolio showcasing:
+
+- Projects
+- Technical skills
+- Experience
+- Software engineering work
+
+**Focus:** Web Development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Software Engineering
+
+```text
 Object-Oriented Programming
 SOLID Principles
 Design Patterns
-Clean Architecture
 Clean Code
-REST API Design
+REST APIs
 Database Design
 Software Architecture
 Unit Testing
 Debugging
 Git & GitHub
-Performance & Maintainability
-
-📚 Currently Learning
-
-🚀 Advanced .NET / ASP.NET Core
-
-📱 Advanced Flutter & mobile architecture
-
-🤖 AI integration & LLM-powered applications
-
-🏗️ System design & software architecture
-
-⚡ Performance, testing and production engineering
-
-🤝 Let's Collaborate
-
-I'm interested in collaborating on:
-
-Open-source projects
-
-C# / .NET applications
-
-Flutter applications
-
-Full-stack products
-
-AI-powered developer tools
-
-Startup ideas and innovative software
-
-📬 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/shreyasroy15">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile
-
-Let's build something useful, scalable and impactful. 🚀
-
-</div>
